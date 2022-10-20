@@ -3,8 +3,8 @@
 
 ## In this r script, you will calculate the area/surface area of a sphere and circle of radius of size r.
 
-
 r = 3
+
 ## Define your functions to calculate the attributes below:
 
 ### Area functions

@@ -4,7 +4,7 @@ Use this template repository to practice GitHub Flow.
 
 ## GH Flow Hands-On
 
-**Goal**: The main task to be completed is to create a function `compute_area`, which computes and returns an area based on a radius `r`.
+**Goal**: The main task to be completed is to create a function `compute_area` in the `shape_attributes.py` file. The function computes and returns an area based on a radius `r`.
 For reference:
 * The area of a circle is $\pi r^2$
 * The area of a sphere is $4 \pi r^2$
